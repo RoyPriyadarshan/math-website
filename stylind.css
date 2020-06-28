@@ -1,0 +1,220 @@
+
+#container1 
+{
+    width: 1050px;
+    border: none;
+    height: auto;
+    margin: 0px auto;
+}
+
+
+
+h1 a
+{
+    font-size: 40px;
+    color: #772cb8;
+    text-decoration-line:underline;
+    -o-transition: font-size 0.5s ease;
+    -moz-transition: font-size 0.5s ease;
+    -ms-transition: font-size 0.5s ease;
+    -webkit-transition: font-size 0.5s ease;
+    transition: font-size 0.5s ease;
+
+}
+
+
+h1 a:hover
+{
+    font-size: 55px;
+}
+
+#SearchBox 
+{
+    float: right;
+    width: 450px;
+    height: 50px;
+    background: linear-gradient(#65dd63,#97f093);
+    border-radius: 30px;
+    padding-top: 12.5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+
+}
+#band 
+{
+    float: left;
+}
+
+#header {
+    height: 100px;
+    padding: 10px 0px;
+}
+
+
+
+
+#butt {
+    float: right;
+    background: linear-gradient(#7ba1df,#8db6eb);
+    border-radius: 30px;
+    border-bottom-style:groove;
+    height: 35px;
+}
+
+.text {
+    float: left;
+    width: 250px;
+    border-radius: 35px;
+    padding-left:10px;
+    padding-right: 10px;
+    font-style: italic;
+    font-family: serif;
+    overflow: scroll;
+    height: 30px
+}
+
+.clear {
+    clear: both;
+}
+
+#menu ul 
+{
+    list-style: none;
+}
+#menu ul li
+{
+    float: left;
+    padding: 0px 33px;
+    height: 40px;
+    border-right: 1px solid black;
+    line-height: 40px
+}
+
+#menu
+{
+    height: 70px;
+    background: linear-gradient(#e86868,#f79696);
+    border-radius: 15px;
+    padding: 10px 0px;
+}
+#menu ul li a
+{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 22px;
+    -o-transition: font-size 0.5s ease;
+    -webkit-transition: font-size 0.5s ease;
+    -moz-transition: font-size 0.5s ease;
+    -ms-transition: font-size 0.5s ease;
+    transition: font-size 0.5s ease;
+}
+#menu ul li a:hover 
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+#menu ul li:last-child
+{
+    border-right: none;
+}
+
+
+
+
+
+#Intro 
+{
+    background: linear-gradient(#6183e9,#7898f1);
+    padding: 30px;
+    margin: 10px 0px;
+    height: auto;
+}
+#Intro h3
+{
+    font-size: 40px;
+    font-weight: 500;
+    color: #000000
+}
+#Intro p
+{
+    font-size: 24px;
+    text-align: justify;
+}
+.sidebars 
+{
+    width: 450px;
+    height: 515px;
+    border: 2px solid #b4b0b0;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+
+.sidebars h3
+{
+    font-size: 40px;
+    color: #6730e8
+}
+
+#left 
+{
+    float: left;
+}
+#right 
+{
+    float: right;
+}
+.sidebars ul
+{
+    list-style: none;
+}
+.sidebars ul li a
+{
+    text-decoration: none;
+    -o-transition: font-size 0.5s ease;
+    -ms-transition: font-size 0.5s ease;
+    -moz-transition: font-size 0.5s ease;
+    -webkit-transition: font-size 0.5s ease;
+    transition: font-size 0.5s ease;
+        
+}
+.sidebars ul li a:hover, .sidebars ul li a:active
+{
+    font-size: 25px; 
+    color: black;
+    font-weight: bold;
+}
+#left ul li
+{
+    padding-bottom:11px;
+    font-size: 17px;
+    list-style-image: url(images/LogoMakr_81uzSX.jpg); 
+}
+#right ul li
+{
+    padding-bottom:20px;
+    font-size: 20px;
+    list-style-image: url(images/LogoMakr_7Fu6Xs.jpg); 
+}
+  
+
+
+.footer {
+    height: 70px;
+    background: linear-gradient(#e0c574,#f2cc58)    
+}
+.footer p
+{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+    text-decoration-line: underline;
+}
+body {
+    background:
+}
+
+
